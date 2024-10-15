@@ -9,5 +9,5 @@ HTML, CSS, javaScript
 # Ekran Gif
 
 
-https://github.com/user-attachments/assets/6739f60b-1b3d-4ee5-941d-2821091fbf3f
+
 
